@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CONG_NGHE_WEB\\DemoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|d:\\cong_nghe_web\\demoapi\\demoapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|d:\\cong_nghe_web\\demoapi\\demoapi\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|d:\\cong_nghe_web\\demoapi\\demoapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|d:\\cong_nghe_web\\demoapi\\demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|d:\\cong_nghe_web\\demoapi\\demoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|d:\\cong_nghe_web\\demoapi\\demoapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|d:\\cong_nghe_web\\demoapi\\demoapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|d:\\cong_nghe_web\\demoapi\\demoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|d:\\cong_nghe_web\\demoapi\\demoapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223BC562-EC34-428D-AF75-0BCC0658230E}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 219,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.txt",
+              "DocumentMoniker": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\README.txt",
+              "RelativeDocumentMoniker": "DemoApi\\README.txt",
+              "ToolTip": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\README.txt",
+              "RelativeToolTip": "DemoApi\\README.txt",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-07T08:03:00.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\docker-compose.yml",
+              "RelativeDocumentMoniker": "DemoApi\\docker-compose.yml",
+              "ToolTip": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\docker-compose.yml",
+              "RelativeToolTip": "DemoApi\\docker-compose.yml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-10-07T05:22:18.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\Dockerfile",
+              "RelativeDocumentMoniker": "DemoApi\\Dockerfile",
+              "ToolTip": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\Dockerfile",
+              "RelativeToolTip": "DemoApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-07T05:21:40.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoApi\\appsettings.json",
+              "ToolTip": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\appsettings.json",
+              "RelativeToolTip": "DemoApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T05:20:50.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\Program.cs",
+              "RelativeDocumentMoniker": "DemoApi\\Program.cs",
+              "ToolTip": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\Program.cs",
+              "RelativeToolTip": "DemoApi\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:15:57.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DemoApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DemoApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:20:18.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "DemoApi\\Data\\SeedData.cs",
+              "ToolTip": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\Data\\SeedData.cs",
+              "RelativeToolTip": "DemoApi\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:19:53.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DemoApi\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DemoApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:19:03.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DemoApi\\Models\\Product.cs",
+              "ToolTip": "D:\\CONG_NGHE_WEB\\DemoApi\\DemoApi\\Models\\Product.cs",
+              "RelativeToolTip": "DemoApi\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:18:25.436Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 181,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
