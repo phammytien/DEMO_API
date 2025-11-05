@@ -1,4 +1,4 @@
-﻿using DemoApi.Data;
+using DemoApi.Data;
 using DemoApi.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -16,14 +16,14 @@ namespace DemoApi.Controllers
             _context = context;
         }
 
-        // 🟢 Lấy danh sách sản phẩm
+       
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Product>>> GetProducts()
         {
             return await _context.Products.ToListAsync();
         }
 
-        // 🟢 Lấy 1 sản phẩm theo ID
+        
         [HttpGet("{id}")]
         public async Task<ActionResult<Product>> GetProduct(int id)
         {
@@ -33,7 +33,7 @@ namespace DemoApi.Controllers
             return product;
         }
 
-        // 🟡 Thêm sản phẩm
+       
         [HttpPost]
         public async Task<ActionResult<Product>> CreateProduct(Product product)
         {
@@ -42,7 +42,7 @@ namespace DemoApi.Controllers
             return CreatedAtAction(nameof(GetProduct), new { id = product.Id }, product);
         }
 
-        // 🟠 Sửa sản phẩm
+       
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateProduct(int id, Product product)
         {
@@ -66,7 +66,7 @@ namespace DemoApi.Controllers
             return NoContent();
         }
 
-        // 🔴 Xóa sản phẩm
+       
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteProduct(int id)
         {
